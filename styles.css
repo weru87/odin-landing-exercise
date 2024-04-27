@@ -1,0 +1,10 @@
+:root {
+    --darkbg: #1F2937;
+    --lightgrey: #F9FAF8;
+    --middlegrey: #E5E7EB;
+    --middleblue: #3882F6;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
